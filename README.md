@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🔥 数值捏
-
+## 🔥属性
 <img align="right" width="47%" src="https://github.com/I-linmeng-I/I-linmeng-I/blob/main/84221230_p0.png"/>
   <a href="https://github.com/I-linmeng-I"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=I-linmeng-I&theme=monokai&title_color=ff3068?"></a>
   <a href="https://github.com/I-linmeng-I"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-linmeng-I&theme=monokai&layout=compact"></a>
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/I-linmeng-I?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/giingu">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/I-linmeng-I?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
-    <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&size=36&pause=1000&color=E45353&center=true&vCenter=true&width=435&lines=Duel%EF%BC%81%E6%9D%A5%E5%90%A7%EF%BC%8C%E6%97%85%E9%B8%9F%E4%B8%8A%E5%A4%A7%E5%88%86%EF%BC%81;%E7%A0%B4%E9%98%B2%E4%BA%86%2C%E7%8E%A9%E9%AD%94%E6%95%91%E4%BA%86%2C%E7%8B%97%E9%83%BD%E4%B8%8D%E7%8E%A9%E6%97%85%E9%B8%9F%E6%8D%8F" alt="Typing SVG" /></a> </h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&size=36&pause=1000&color=E45353&center=true&vCenter=true&width=435&lines=Duel%EF%BC%81%E6%9D%A5%E5%90%A7%EF%BC%8C%E6%97%85%E9%B8%9F%E4%B8%8A%E5%A4%A7%E5%88%86%EF%BC%81;%E7%A0%B4%E9%98%B2%E4%BA%86%2C%E7%8E%A9%E9%AD%94%E6%95%91%E4%BA%86%2C%E7%8B%97%E9%83%BD%E4%B8%8D%E7%8E%A9%E6%97%85%E9%B8%9F%E6%8D%8F" alt="Typing SVG" /></a>
     
 <p align="center">
   <a href="https://space.bilibili.com/25121455"><img width="49%" src="https://stats-cards-eight.vercel.app/api/bilibili/?id=25121455&theme=monokai&lang=zh-CN"></a>
