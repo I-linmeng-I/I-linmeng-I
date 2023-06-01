@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/I-linmeng-I"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=I-linmeng-I&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   <a href="https://github.com/I-linmeng-I?tab=repositories&sort=stargazers" align="left"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://space.bilibili.com/25121455">
-    <img alt="nezuko bot" title="Check out Bilibili" src="https://custom-icon-badges.herokuapp.com/badge/View%20BiliBili-D15E9B.svg?color=%23E05D44&label=bilibili&logo=bilibili&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="nezuko bot" title="Check out Bilibili" src="https://custom-icon-badges.herokuapp.com/badge/BiliBili-D15E9B.svg?color=%23E05D44&label=bilibili&logo=bilibili&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Vk2UPJKkIjanAcIWhT4uz-GV0Im64A3T&authKey=LUsyVQ8MJfmwch93B3%2FOoOvOM2si3ginumdt73fsq1mAGOGUUqD4ykSnWNsNMMlB&noverify=0&group_code=631487094">
     <img alt="QQGroup" title="Join My QQGroup" src="https://custom-icon-badges.herokuapp.com/badge/QQGroup-D15E9B.svg?color=749bff&logo=comments&logoColor=white&style=for-the-badge&labelColor=72a2fa"/></a><br>
   <a href="https://github.com/I-linmeng-I?tab=repositories&sort=stargazers">
