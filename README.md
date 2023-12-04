@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h2 align='left'><i>Top Repos</i></h2>
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/I-linmeng-I/YGOAssistant">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=I-linmeng-I&repo=YGOAssistant&theme=monokai&hide_border=true" height="185">
 </a>
 </p>
